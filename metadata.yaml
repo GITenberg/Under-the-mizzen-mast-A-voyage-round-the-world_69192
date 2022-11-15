@@ -1,0 +1,36 @@
+_repo: Under-the-mizzen-mast-A-voyage-round-the-world_69192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Nehemiah
+    alias: Adams, N.
+    birthdate: 1806
+    deathdate: 1878
+    gutenberg_agent_id: '5596'
+    url: http://www.gutenberg.org/2009/agents/5596
+    wikipedia: https://en.wikipedia.org/wiki/Nehemiah_Adams
+description: 'First edition published under title: A voyage around the world.'
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69192'
+  lccn: '05027632'
+language: en
+pgterms:marc904: https://archive.org/details/voyagearoundworl01adam
+pgterms:marc905: 20200123144300adams
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Richard Hulse, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Henry Hoyt,1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+tableOfContents: Outward bound -- Cape Horn -- California; The Sandwich Islands; Hong
+  Kong -- Canton; Shanghai; Singapore; Macao -- Manilla; Homeward bound.
+title: 'Under the mizzen mast: A voyage round the world'
+url: http://www.gutenberg.org/ebooks/69192
